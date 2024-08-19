@@ -1,4 +1,4 @@
-# Minimal example to get your FRC Romi working in Python
+# Tiny example to get FRC Romi robot working in Python
 
 ### 1. Open PyCharm and get this project from VCS (GitHub) using URL `https://github.com/epanov1602/RomiSuperSimple/`
 
